@@ -1,4 +1,6 @@
 hello world of RAIT
 this is second line
 
+I came late to class so i understand little built of git
+
 
